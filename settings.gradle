@@ -1,0 +1,4 @@
+rootProject.name = 'concurrency-test'
+include 'concurrency-test-extension'
+include 'samples'
+
